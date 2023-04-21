@@ -1,6 +1,6 @@
 # Procedural-Terrain-Generation
 
-Generated procedural mesh based on noise and height map.
+Generates procedural mesh based on noise and height map.
 Perlin Noise is used to generate noise. (Will add simplex noise later)
 
 ## Examples
